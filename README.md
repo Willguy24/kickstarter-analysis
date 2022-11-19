@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# kickstarter-analysis
 
 ### Overview of Project
 With this project we have been tasked with finding the optimal launch date and duration for Louise's play kickstarter. We have been given a large dataset of many kickstarters with many different categories of projects, funding goals, launch dates, time ranges and many other variables.
